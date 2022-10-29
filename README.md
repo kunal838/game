@@ -1,3 +1,3 @@
 # This is a basic Javascript based game.
-#Thank you for visiting!!!!!!!
-# Enjoy
+#Thank you!!!!!
+# Enjoy Your Game
